@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/datastructuresweek1.iml" filepath="$PROJECT_DIR$/.idea/datastructuresweek1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa01AlgorithmAnalysis/dsa-01-AlgorithmAnalysis.iml" filepath="$PROJECT_DIR$/dsa01AlgorithmAnalysis/dsa-01-AlgorithmAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa02Arrays/dsa-02-Arrays.iml" filepath="$PROJECT_DIR$/dsa02Arrays/dsa-02-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa03CollectionsReview/dsa-03-CollectionsReview.iml" filepath="$PROJECT_DIR$/dsa03CollectionsReview/dsa-03-CollectionsReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa04LinkedLists/dsa-04-LinkedLists.iml" filepath="$PROJECT_DIR$/dsa04LinkedLists/dsa-04-LinkedLists.iml" />
+    </modules>
+  </component>
+</project>
